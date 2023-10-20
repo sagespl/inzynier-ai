@@ -36,7 +36,7 @@ Virtual Machines are kept here: [x86](https://drive.google.com/drive/u/0/folders
     * Select **Display**
     * Set **Video Memory** to recommended 128 mb.
     * Click **Ok**
-7. Select the machine and run **Start** - your username is **user** and the password also **user**.
+7. Select the machine and run **Start** - username = **user** , password = **user**.
 8. Create shared directory with your host machine (**recommended**)
    * Create folder (and name it e. g. `share`) on your **host machine**,
    * In your **virtual machine**
