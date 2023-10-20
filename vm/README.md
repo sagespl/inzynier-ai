@@ -3,9 +3,19 @@
 
 Maintainer: Marcin Rybiński - m.rybinski@sages.io
 
-All VM requirements [are kept here](https://docs.google.com/spreadsheets/d/1CRiMvdGtCxgHokyInMCFFCuibtbJEcYWFIXMDzUVtlY/edit#gid=1119507627)
+Virtual Machines are kept here: [x86](https://drive.google.com/drive/u/0/folders/1ck_usf1Ei4G_LDlZmHyXdF0FsSGriFy9), [arm64](https://mega.nz/file/L7IUFYKC#8Z2ANTKHAxq0dTu9DWzH824KsS-tv8cf_wGSL_PocLw)
 
-VM images are [kept here](https://drive.google.com/drive/u/0/folders/1dl8P7FTF4CXqe14AwotMTKOl9uaiaFS_)
+## What's inside Virtual Machine
+
+* python 3.10 and 3.11
+* `docker`
+* `minikube` and `kubectl`
+* `gcloud`
+* `git`
+* `postgres` and `redis`
+* `poetry`
+* IDE: VSCode for x86 and arm64, PyCharm only for x86
+* Web browsers: chromium for x86 and arm64, google chrome only for x86
 
 ## How to run the virtual machine
 
