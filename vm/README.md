@@ -3,7 +3,7 @@
 
 Maintainer: Marcin Rybiński - m.rybinski@sages.io
 
-Virtual Machines are kept here: [x86](https://drive.google.com/drive/u/0/folders/1ck_usf1Ei4G_LDlZmHyXdF0FsSGriFy9), [arm64](https://mega.nz/file/L7IUFYKC#8Z2ANTKHAxq0dTu9DWzH824KsS-tv8cf_wGSL_PocLw)
+Virtual Machines are kept here: [x86_64](https://drive.google.com/drive/u/0/folders/1ck_usf1Ei4G_LDlZmHyXdF0FsSGriFy9), [arm64](https://mega.nz/file/L7IUFYKC#8Z2ANTKHAxq0dTu9DWzH824KsS-tv8cf_wGSL_PocLw)
 
 ## What's inside Virtual Machine
 
@@ -14,15 +14,15 @@ Virtual Machines are kept here: [x86](https://drive.google.com/drive/u/0/folders
 * `git`
 * `postgres` and `redis`
 * `poetry`
-* IDE: VSCode for x86 and arm64, PyCharm only for x86
-* Web browsers: chromium for x86 and arm64, google chrome only for x86
+* IDE: VSCode for x86_64 and arm64, PyCharm only for x86_64
+* Web browsers: chromium for x86_64 and arm64, google chrome only for x86_64
 
 ## How to run the virtual machine
 
 ### x86_64
 
 1. Install [VirtualBox **7.0.x** for your operating system](https://www.virtualbox.org/wiki/Downloads).
-2. Download [Inżynier AI Virtual Machine image](https://drive.google.com/drive/u/0/folders/1dl8P7FTF4CXqe14AwotMTKOl9uaiaFS_) - x86_64
+2. Download [Inżynier AI Virtual Machine image](https://drive.google.com/drive/u/0/folders/1ck_usf1Ei4G_LDlZmHyXdF0FsSGriFy9) - x86_64
 3. Unzip the downloaded file and run `.ova` file.
 4. OracleVM Virtual Box should pop up with information about the image. **You don't need to change anything** \
     By default the image is run on:
